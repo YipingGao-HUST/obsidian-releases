@@ -19276,5 +19276,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  }，
+    {
+    "id": "obsidian-tags",
+    "name": "obsidian tags",
+    "author": "Sky Gao",
+    "description": "An Obsidian plugin that automatically adds tags to your notes based on keyword matching in the file content.",
+    "repo": "https://github.com/YipingGao-HUST/obsidian-tags"
   }
 ]
